@@ -13,6 +13,15 @@
 | **Spring Cloud OpenFeign**      | HTTP client for calling Stripe API            |
 | **Maven**                       | Dependency management & build tool            |
 
+## 📋 Requirements
+
+- [ ] Ability for users to **sign up** and **log in**
+- [ ] Ability to **add products** to a cart
+- [ ] Ability to **remove products** from a cart
+- [ ] Ability to **view** and **search** for products
+- [ ] Ability for users to **checkout** and **pay** for products
+
+
 ## Phases
 ### Phase 1: Authentication using JWT.
     - [] Users can sign up & login → get JWT token.
